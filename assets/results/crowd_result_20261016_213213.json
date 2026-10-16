@@ -1,0 +1,2445 @@
+{
+  "timestamp": "20261016_213213",
+  "source_filename": "1d2f8138-7b23-4f13-9085-e2437da89491.png",
+  "model": "crowddensity_yolo11n_full_best.pt",
+  "task": "person_detection_and_counting",
+  "confidence_threshold": 0.25,
+  "iou_threshold": 0.5,
+  "detected_person_count": 221,
+  "average_detection_confidence": 0.487226,
+  "maximum_detection_confidence": 0.840221,
+  "detections": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.8402209281921387,
+      "bbox_xyxy": [
+        441.26,
+        913.92,
+        565.38,
+        1137.98
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.8024399280548096,
+      "bbox_xyxy": [
+        885.09,
+        485.34,
+        949.87,
+        655.96
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7917137145996094,
+      "bbox_xyxy": [
+        527.93,
+        376.09,
+        582.29,
+        518.67
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7902653217315674,
+      "bbox_xyxy": [
+        803.15,
+        726.92,
+        891.01,
+        978.5
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7881145477294922,
+      "bbox_xyxy": [
+        1477.78,
+        811.03,
+        1566.91,
+        1030.9
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7864043116569519,
+      "bbox_xyxy": [
+        927.66,
+        822.5,
+        1047.82,
+        1065.24
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7780405282974243,
+      "bbox_xyxy": [
+        698.08,
+        457.3,
+        767.79,
+        641.88
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7771210074424744,
+      "bbox_xyxy": [
+        1600.7,
+        595.67,
+        1679.56,
+        823.3
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7755598425865173,
+      "bbox_xyxy": [
+        928.13,
+        464.3,
+        988.45,
+        635.45
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7740294337272644,
+      "bbox_xyxy": [
+        977.88,
+        460.76,
+        1042.66,
+        654.19
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7684516310691833,
+      "bbox_xyxy": [
+        1157.57,
+        989.67,
+        1264.19,
+        1136.36
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7657220363616943,
+      "bbox_xyxy": [
+        1043.93,
+        989.99,
+        1159.78,
+        1139.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7654317021369934,
+      "bbox_xyxy": [
+        743.21,
+        874.43,
+        830.25,
+        1125.49
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7644929885864258,
+      "bbox_xyxy": [
+        1512.05,
+        954.6,
+        1619.83,
+        1139.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.761793851852417,
+      "bbox_xyxy": [
+        948.75,
+        615.02,
+        1020.21,
+        811.85
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7617655992507935,
+      "bbox_xyxy": [
+        765.01,
+        507.88,
+        834.65,
+        692.79
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7589805126190186,
+      "bbox_xyxy": [
+        570.15,
+        429.6,
+        641.01,
+        600.53
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7574506998062134,
+      "bbox_xyxy": [
+        1.14,
+        957.34,
+        87.98,
+        1136.09
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7557814717292786,
+      "bbox_xyxy": [
+        1220.07,
+        458.99,
+        1290.21,
+        642.58
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7521256804466248,
+      "bbox_xyxy": [
+        1053.58,
+        378.1,
+        1110.91,
+        529.78
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7456979155540466,
+      "bbox_xyxy": [
+        1145.54,
+        266.33,
+        1200.54,
+        387.71
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7450317740440369,
+      "bbox_xyxy": [
+        827.2,
+        934.51,
+        957.94,
+        1139.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7447237968444824,
+      "bbox_xyxy": [
+        1048.43,
+        812.94,
+        1146.41,
+        1046.34
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7366347908973694,
+      "bbox_xyxy": [
+        1252.82,
+        857.49,
+        1347.32,
+        1136.83
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7311980128288269,
+      "bbox_xyxy": [
+        726.51,
+        744.85,
+        797.77,
+        929.87
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7309872508049011,
+      "bbox_xyxy": [
+        533.69,
+        845.22,
+        639.08,
+        1092.73
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7176156044006348,
+      "bbox_xyxy": [
+        994.33,
+        728.1,
+        1079.6,
+        936.25
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7175868153572083,
+      "bbox_xyxy": [
+        740.03,
+        391.09,
+        798.21,
+        556.37
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7159090042114258,
+      "bbox_xyxy": [
+        189.05,
+        939.42,
+        303.6,
+        1136.77
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7118070721626282,
+      "bbox_xyxy": [
+        1204.11,
+        676.18,
+        1280.22,
+        861.06
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.7115548253059387,
+      "bbox_xyxy": [
+        579.53,
+        557.63,
+        650.69,
+        742.44
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6990529894828796,
+      "bbox_xyxy": [
+        669.71,
+        379.73,
+        726.82,
+        535.94
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6978858113288879,
+      "bbox_xyxy": [
+        399.75,
+        422.86,
+        458.25,
+        582.11
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6965562701225281,
+      "bbox_xyxy": [
+        805.14,
+        319.16,
+        856.6,
+        446.17
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6963514685630798,
+      "bbox_xyxy": [
+        335.97,
+        942.35,
+        432.15,
+        1137.63
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6929730176925659,
+      "bbox_xyxy": [
+        1413.17,
+        727.4,
+        1492.87,
+        926.9
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6890527606010437,
+      "bbox_xyxy": [
+        838.85,
+        233.02,
+        877.88,
+        337.89
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6879582405090332,
+      "bbox_xyxy": [
+        1390.31,
+        575.51,
+        1454.32,
+        756.71
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6859338283538818,
+      "bbox_xyxy": [
+        1181.53,
+        817.06,
+        1271.84,
+        1050.49
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6813675761222839,
+      "bbox_xyxy": [
+        675.47,
+        654.67,
+        750.56,
+        855.67
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6784425377845764,
+      "bbox_xyxy": [
+        307.64,
+        730.37,
+        401.81,
+        933.68
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6770431399345398,
+      "bbox_xyxy": [
+        510.54,
+        488.9,
+        586.63,
+        669.91
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6742736101150513,
+      "bbox_xyxy": [
+        933.53,
+        345.51,
+        983.98,
+        470.12
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6736059784889221,
+      "bbox_xyxy": [
+        43.68,
+        634.37,
+        120.97,
+        845.7
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6709871292114258,
+      "bbox_xyxy": [
+        828.11,
+        477.22,
+        892.97,
+        658.64
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6652637124061584,
+      "bbox_xyxy": [
+        384.74,
+        545.08,
+        453.69,
+        703.08
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6623299717903137,
+      "bbox_xyxy": [
+        884.22,
+        786.03,
+        965.01,
+        994.06
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6622397303581238,
+      "bbox_xyxy": [
+        677.78,
+        775.93,
+        752.08,
+        950.08
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.657820999622345,
+      "bbox_xyxy": [
+        1364.55,
+        1032.05,
+        1478.94,
+        1139.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6574592590332031,
+      "bbox_xyxy": [
+        798.84,
+        226.32,
+        837.27,
+        323.8
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6531201004981995,
+      "bbox_xyxy": [
+        262.06,
+        499.76,
+        324.08,
+        655.65
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.652137041091919,
+      "bbox_xyxy": [
+        990.38,
+        359.12,
+        1042.29,
+        501.78
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6483350396156311,
+      "bbox_xyxy": [
+        1114.17,
+        310.23,
+        1164.42,
+        455.48
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6421681642532349,
+      "bbox_xyxy": [
+        775.18,
+        339.77,
+        825.26,
+        489.63
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6401803493499756,
+      "bbox_xyxy": [
+        1525.51,
+        275.19,
+        1572.86,
+        408.04
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6371189951896667,
+      "bbox_xyxy": [
+        476.32,
+        585.51,
+        540.42,
+        769.43
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.634248673915863,
+      "bbox_xyxy": [
+        406.08,
+        818.22,
+        484.33,
+        1025.78
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6303845643997192,
+      "bbox_xyxy": [
+        1632.91,
+        436.18,
+        1680.0,
+        612.63
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6243129372596741,
+      "bbox_xyxy": [
+        197.07,
+        256.89,
+        232.29,
+        337.76
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.62087082862854,
+      "bbox_xyxy": [
+        1057.68,
+        535.51,
+        1136.75,
+        728.46
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6141101717948914,
+      "bbox_xyxy": [
+        1076.16,
+        244.68,
+        1112.92,
+        339.61
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6093913912773132,
+      "bbox_xyxy": [
+        894.2,
+        293.56,
+        944.95,
+        421.97
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6059290766716003,
+      "bbox_xyxy": [
+        1340.6,
+        868.74,
+        1444.81,
+        1136.14
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6049371361732483,
+      "bbox_xyxy": [
+        637.41,
+        495.73,
+        703.48,
+        656.9
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6040695905685425,
+      "bbox_xyxy": [
+        31.82,
+        556.43,
+        83.04,
+        682.24
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6031200289726257,
+      "bbox_xyxy": [
+        574.19,
+        741.98,
+        682.18,
+        973.45
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6030065417289734,
+      "bbox_xyxy": [
+        1326.88,
+        569.47,
+        1383.4,
+        737.34
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6006034016609192,
+      "bbox_xyxy": [
+        441.03,
+        508.55,
+        499.41,
+        670.48
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5996360182762146,
+      "bbox_xyxy": [
+        611.36,
+        903.63,
+        703.22,
+        1133.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5976505279541016,
+      "bbox_xyxy": [
+        710.66,
+        307.74,
+        757.9,
+        434.76
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5964661836624146,
+      "bbox_xyxy": [
+        1149.72,
+        711.74,
+        1243.01,
+        937.15
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5924368500709534,
+      "bbox_xyxy": [
+        320.83,
+        571.05,
+        386.81,
+        717.58
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5912930369377136,
+      "bbox_xyxy": [
+        1299.0,
+        567.84,
+        1349.65,
+        724.93
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5906581282615662,
+      "bbox_xyxy": [
+        381.16,
+        636.34,
+        469.44,
+        834.26
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5895243883132935,
+      "bbox_xyxy": [
+        852.53,
+        396.72,
+        911.19,
+        548.06
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5881452560424805,
+      "bbox_xyxy": [
+        1352.26,
+        462.22,
+        1422.43,
+        617.44
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5859086513519287,
+      "bbox_xyxy": [
+        286.94,
+        859.07,
+        371.27,
+        1089.1
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5794633626937866,
+      "bbox_xyxy": [
+        310.23,
+        273.21,
+        349.57,
+        373.19
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.572787880897522,
+      "bbox_xyxy": [
+        228.65,
+        735.84,
+        307.76,
+        961.91
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5716806650161743,
+      "bbox_xyxy": [
+        320.89,
+        404.56,
+        369.24,
+        541.96
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5716484189033508,
+      "bbox_xyxy": [
+        1183.02,
+        411.8,
+        1235.1,
+        553.01
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5631009936332703,
+      "bbox_xyxy": [
+        641.73,
+        170.19,
+        674.36,
+        256.06
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.560294508934021,
+      "bbox_xyxy": [
+        209.54,
+        419.49,
+        251.95,
+        548.7
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5599791407585144,
+      "bbox_xyxy": [
+        1273.57,
+        395.94,
+        1351.44,
+        591.15
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5586637854576111,
+      "bbox_xyxy": [
+        70.31,
+        906.06,
+        170.9,
+        1139.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5500379800796509,
+      "bbox_xyxy": [
+        1306.27,
+        315.59,
+        1360.32,
+        464.29
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5476757287979126,
+      "bbox_xyxy": [
+        1353.94,
+        726.84,
+        1430.49,
+        938.11
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.543189525604248,
+      "bbox_xyxy": [
+        619.0,
+        388.45,
+        671.02,
+        559.13
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.53887540102005,
+      "bbox_xyxy": [
+        1111.84,
+        518.34,
+        1197.74,
+        736.98
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5364762544631958,
+      "bbox_xyxy": [
+        1069.91,
+        743.16,
+        1145.73,
+        954.49
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5223511457443237,
+      "bbox_xyxy": [
+        1474.18,
+        1006.62,
+        1577.95,
+        1139.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5177140235900879,
+      "bbox_xyxy": [
+        637.2,
+        318.13,
+        679.6,
+        420.75
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5145218968391418,
+      "bbox_xyxy": [
+        637.0,
+        564.4,
+        704.4,
+        764.93
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5139166116714478,
+      "bbox_xyxy": [
+        1608.69,
+        965.92,
+        1679.52,
+        1139.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5111132264137268,
+      "bbox_xyxy": [
+        457.16,
+        459.96,
+        518.6,
+        587.97
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5090475082397461,
+      "bbox_xyxy": [
+        445.51,
+        739.03,
+        523.17,
+        948.01
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5075173377990723,
+      "bbox_xyxy": [
+        1614.42,
+        253.24,
+        1658.98,
+        359.35
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5037656426429749,
+      "bbox_xyxy": [
+        183.75,
+        678.86,
+        255.75,
+        878.92
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.5020679235458374,
+      "bbox_xyxy": [
+        1506.26,
+        586.98,
+        1585.85,
+        808.64
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.501166582107544,
+      "bbox_xyxy": [
+        1335.7,
+        337.62,
+        1384.29,
+        467.72
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.49581536650657654,
+      "bbox_xyxy": [
+        1064.18,
+        317.31,
+        1122.01,
+        451.16
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4915476143360138,
+      "bbox_xyxy": [
+        762.81,
+        1029.12,
+        881.5,
+        1139.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.48135906457901,
+      "bbox_xyxy": [
+        145.11,
+        400.27,
+        196.52,
+        524.65
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.48045286536216736,
+      "bbox_xyxy": [
+        865.59,
+        236.57,
+        903.35,
+        337.44
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4780169129371643,
+      "bbox_xyxy": [
+        1400.44,
+        839.31,
+        1479.94,
+        1063.92
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.47333720326423645,
+      "bbox_xyxy": [
+        0.0,
+        707.4,
+        48.71,
+        894.25
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4728390872478485,
+      "bbox_xyxy": [
+        639.9,
+        1020.32,
+        751.59,
+        1139.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.47143876552581787,
+      "bbox_xyxy": [
+        287.3,
+        329.9,
+        323.43,
+        424.6
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.46911126375198364,
+      "bbox_xyxy": [
+        1032.04,
+        248.37,
+        1072.84,
+        345.92
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4645369350910187,
+      "bbox_xyxy": [
+        1420.83,
+        563.73,
+        1503.2,
+        756.81
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.463225394487381,
+      "bbox_xyxy": [
+        1277.28,
+        732.76,
+        1352.6,
+        960.19
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4622241258621216,
+      "bbox_xyxy": [
+        559.31,
+        655.36,
+        625.07,
+        832.05
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.45707768201828003,
+      "bbox_xyxy": [
+        1556.59,
+        491.57,
+        1620.91,
+        665.07
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.45453470945358276,
+      "bbox_xyxy": [
+        904.63,
+        692.69,
+        976.93,
+        878.78
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.45183807611465454,
+      "bbox_xyxy": [
+        1544.87,
+        869.07,
+        1644.97,
+        1105.46
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.44639867544174194,
+      "bbox_xyxy": [
+        582.55,
+        1024.14,
+        663.03,
+        1136.74
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4462345540523529,
+      "bbox_xyxy": [
+        1418.86,
+        346.82,
+        1465.08,
+        486.3
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.44296663999557495,
+      "bbox_xyxy": [
+        509.35,
+        310.62,
+        550.08,
+        406.76
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4417344927787781,
+      "bbox_xyxy": [
+        52.67,
+        431.16,
+        105.28,
+        557.66
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.43913987278938293,
+      "bbox_xyxy": [
+        1195.83,
+        336.73,
+        1249.3,
+        461.49
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.43811681866645813,
+      "bbox_xyxy": [
+        87.88,
+        541.55,
+        148.35,
+        708.17
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.42618587613105774,
+      "bbox_xyxy": [
+        1151.8,
+        412.75,
+        1200.1,
+        540.67
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.42537233233451843,
+      "bbox_xyxy": [
+        1261.17,
+        301.14,
+        1303.09,
+        410.7
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4200199544429779,
+      "bbox_xyxy": [
+        1363.33,
+        432.54,
+        1433.83,
+        575.59
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4191756248474121,
+      "bbox_xyxy": [
+        1387.36,
+        276.1,
+        1433.27,
+        397.53
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4108749032020569,
+      "bbox_xyxy": [
+        1489.02,
+        319.59,
+        1537.92,
+        437.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4095110595226288,
+      "bbox_xyxy": [
+        222.52,
+        367.84,
+        269.47,
+        484.88
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4091147482395172,
+      "bbox_xyxy": [
+        1119.29,
+        789.17,
+        1192.21,
+        1043.25
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.40635597705841064,
+      "bbox_xyxy": [
+        767.85,
+        292.84,
+        816.96,
+        426.59
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4051544964313507,
+      "bbox_xyxy": [
+        1609.51,
+        343.97,
+        1656.08,
+        469.23
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4041556715965271,
+      "bbox_xyxy": [
+        136.85,
+        450.23,
+        196.19,
+        573.09
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4031602740287781,
+      "bbox_xyxy": [
+        1107.98,
+        457.41,
+        1161.43,
+        585.27
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4024898111820221,
+      "bbox_xyxy": [
+        1562.07,
+        455.43,
+        1622.28,
+        602.47
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.4007076621055603,
+      "bbox_xyxy": [
+        1316.07,
+        714.63,
+        1379.66,
+        909.92
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3990134298801422,
+      "bbox_xyxy": [
+        965.59,
+        232.44,
+        998.51,
+        321.26
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.393738716840744,
+      "bbox_xyxy": [
+        0.0,
+        582.91,
+        52.71,
+        771.3
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.39251384139060974,
+      "bbox_xyxy": [
+        571.74,
+        652.07,
+        634.75,
+        776.97
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3887970447540283,
+      "bbox_xyxy": [
+        1470.21,
+        1057.74,
+        1554.89,
+        1139.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3872861862182617,
+      "bbox_xyxy": [
+        1209.72,
+        244.56,
+        1245.4,
+        339.17
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.38724127411842346,
+      "bbox_xyxy": [
+        89.74,
+        1001.07,
+        210.57,
+        1139.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3852429687976837,
+      "bbox_xyxy": [
+        822.45,
+        168.35,
+        855.64,
+        253.3
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.38521236181259155,
+      "bbox_xyxy": [
+        878.62,
+        587.46,
+        939.43,
+        767.24
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.38497763872146606,
+      "bbox_xyxy": [
+        554.29,
+        318.49,
+        591.88,
+        426.34
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3789677917957306,
+      "bbox_xyxy": [
+        1165.61,
+        225.44,
+        1209.33,
+        330.06
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.37881648540496826,
+      "bbox_xyxy": [
+        238.73,
+        427.75,
+        277.67,
+        530.3
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3734048902988434,
+      "bbox_xyxy": [
+        43.89,
+        369.9,
+        81.57,
+        467.73
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.36960968375205994,
+      "bbox_xyxy": [
+        224.35,
+        264.92,
+        255.61,
+        336.57
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.36872753500938416,
+      "bbox_xyxy": [
+        1033.52,
+        604.7,
+        1099.06,
+        787.29
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3651446998119354,
+      "bbox_xyxy": [
+        811.39,
+        350.65,
+        861.42,
+        493.18
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.36486321687698364,
+      "bbox_xyxy": [
+        1115.56,
+        248.69,
+        1148.47,
+        339.81
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3629133403301239,
+      "bbox_xyxy": [
+        306.45,
+        890.69,
+        416.53,
+        1120.43
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.35395437479019165,
+      "bbox_xyxy": [
+        913.4,
+        240.69,
+        950.18,
+        339.28
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3536258935928345,
+      "bbox_xyxy": [
+        461.2,
+        227.66,
+        497.05,
+        318.88
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.353161484003067,
+      "bbox_xyxy": [
+        1021.04,
+        203.81,
+        1063.34,
+        310.73
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3523561656475067,
+      "bbox_xyxy": [
+        1460.47,
+        212.8,
+        1497.66,
+        302.53
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3491414487361908,
+      "bbox_xyxy": [
+        1075.52,
+        693.16,
+        1141.5,
+        880.33
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3483737111091614,
+      "bbox_xyxy": [
+        601.15,
+        307.67,
+        640.29,
+        405.23
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.34811896085739136,
+      "bbox_xyxy": [
+        989.26,
+        231.37,
+        1029.75,
+        333.27
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.34272298216819763,
+      "bbox_xyxy": [
+        1.96,
+        458.12,
+        43.19,
+        552.41
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.339932918548584,
+      "bbox_xyxy": [
+        1423.14,
+        238.45,
+        1464.83,
+        341.17
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.33940136432647705,
+      "bbox_xyxy": [
+        829.75,
+        969.49,
+        908.33,
+        1138.77
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3374629020690918,
+      "bbox_xyxy": [
+        435.11,
+        160.84,
+        467.54,
+        235.62
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3355787396430969,
+      "bbox_xyxy": [
+        988.35,
+        180.89,
+        1028.27,
+        272.54
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3339117467403412,
+      "bbox_xyxy": [
+        1246.59,
+        229.57,
+        1283.08,
+        323.85
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.33311328291893005,
+      "bbox_xyxy": [
+        146.06,
+        545.62,
+        229.85,
+        718.18
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3272688090801239,
+      "bbox_xyxy": [
+        967.5,
+        308.76,
+        1000.19,
+        401.87
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3256723880767822,
+      "bbox_xyxy": [
+        1083.1,
+        290.09,
+        1125.8,
+        384.9
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.32473668456077576,
+      "bbox_xyxy": [
+        1457.5,
+        359.91,
+        1524.01,
+        513.83
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3236249089241028,
+      "bbox_xyxy": [
+        1240.18,
+        351.14,
+        1279.72,
+        465.33
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.321552038192749,
+      "bbox_xyxy": [
+        1404.18,
+        382.82,
+        1463.51,
+        554.2
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.321162611246109,
+      "bbox_xyxy": [
+        1119.98,
+        400.73,
+        1172.28,
+        545.76
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3185880482196808,
+      "bbox_xyxy": [
+        252.7,
+        334.24,
+        293.1,
+        427.23
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3181001543998718,
+      "bbox_xyxy": [
+        863.76,
+        325.98,
+        910.25,
+        429.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.31547340750694275,
+      "bbox_xyxy": [
+        171.15,
+        336.34,
+        204.85,
+        428.3
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3149369955062866,
+      "bbox_xyxy": [
+        1027.38,
+        450.64,
+        1089.64,
+        610.16
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.31333041191101074,
+      "bbox_xyxy": [
+        259.8,
+        386.14,
+        309.93,
+        513.42
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3129391372203827,
+      "bbox_xyxy": [
+        1568.72,
+        271.47,
+        1609.89,
+        369.7
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.31005752086639404,
+      "bbox_xyxy": [
+        1140.64,
+        502.88,
+        1220.34,
+        688.25
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.3083502948284149,
+      "bbox_xyxy": [
+        139.37,
+        186.93,
+        172.38,
+        264.53
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.30486029386520386,
+      "bbox_xyxy": [
+        8.55,
+        373.61,
+        50.37,
+        469.28
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.30223315954208374,
+      "bbox_xyxy": [
+        463.85,
+        374.34,
+        526.56,
+        510.42
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.30126768350601196,
+      "bbox_xyxy": [
+        345.17,
+        291.24,
+        383.66,
+        390.76
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2995070219039917,
+      "bbox_xyxy": [
+        939.22,
+        176.74,
+        977.3,
+        275.88
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.29805681109428406,
+      "bbox_xyxy": [
+        1131.52,
+        211.76,
+        1166.36,
+        302.18
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2950422465801239,
+      "bbox_xyxy": [
+        1250.68,
+        148.93,
+        1284.33,
+        230.78
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2914816737174988,
+      "bbox_xyxy": [
+        1625.81,
+        113.48,
+        1653.09,
+        181.53
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2910461723804474,
+      "bbox_xyxy": [
+        1370.36,
+        676.0,
+        1435.99,
+        861.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.29060128331184387,
+      "bbox_xyxy": [
+        316.57,
+        391.08,
+        361.81,
+        496.3
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.29046109318733215,
+      "bbox_xyxy": [
+        260.58,
+        456.63,
+        322.83,
+        588.44
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2896016836166382,
+      "bbox_xyxy": [
+        110.73,
+        395.58,
+        147.18,
+        497.02
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2864198684692383,
+      "bbox_xyxy": [
+        1586.37,
+        252.04,
+        1621.09,
+        342.76
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2832068204879761,
+      "bbox_xyxy": [
+        108.85,
+        518.74,
+        169.2,
+        691.16
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2829228937625885,
+      "bbox_xyxy": [
+        1219.95,
+        222.22,
+        1250.45,
+        304.88
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.28197842836380005,
+      "bbox_xyxy": [
+        673.39,
+        262.57,
+        717.39,
+        362.43
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2802419066429138,
+      "bbox_xyxy": [
+        621.51,
+        380.58,
+        665.36,
+        493.06
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.27709734439849854,
+      "bbox_xyxy": [
+        1115.75,
+        369.89,
+        1166.65,
+        489.29
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.27615129947662354,
+      "bbox_xyxy": [
+        1326.74,
+        138.05,
+        1353.71,
+        207.72
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2754737138748169,
+      "bbox_xyxy": [
+        859.13,
+        1.0,
+        882.73,
+        60.2
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2751293480396271,
+      "bbox_xyxy": [
+        1658.31,
+        106.43,
+        1679.42,
+        187.84
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.27197906374931335,
+      "bbox_xyxy": [
+        610.6,
+        698.5,
+        684.85,
+        901.63
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.27176448702812195,
+      "bbox_xyxy": [
+        962.59,
+        112.48,
+        993.62,
+        197.03
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.27056169509887695,
+      "bbox_xyxy": [
+        1046.86,
+        179.6,
+        1079.12,
+        270.05
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2699250876903534,
+      "bbox_xyxy": [
+        1153.74,
+        644.53,
+        1222.55,
+        836.21
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.26953360438346863,
+      "bbox_xyxy": [
+        1433.95,
+        545.06,
+        1496.2,
+        697.53
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2692834734916687,
+      "bbox_xyxy": [
+        417.93,
+        194.2,
+        449.45,
+        269.36
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2670094072818756,
+      "bbox_xyxy": [
+        1647.97,
+        310.08,
+        1679.95,
+        438.83
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2654915153980255,
+      "bbox_xyxy": [
+        1583.2,
+        309.69,
+        1625.34,
+        415.55
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.264161080121994,
+      "bbox_xyxy": [
+        1423.8,
+        166.03,
+        1457.38,
+        244.68
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2640567421913147,
+      "bbox_xyxy": [
+        269.92,
+        999.31,
+        362.48,
+        1138.34
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.26184743642807007,
+      "bbox_xyxy": [
+        596.24,
+        184.05,
+        629.7,
+        262.56
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.25905048847198486,
+      "bbox_xyxy": [
+        1352.39,
+        134.84,
+        1382.56,
+        212.6
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2576289772987366,
+      "bbox_xyxy": [
+        72.01,
+        356.27,
+        112.88,
+        460.19
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2567451596260071,
+      "bbox_xyxy": [
+        1272.87,
+        689.07,
+        1349.66,
+        863.74
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2567127048969269,
+      "bbox_xyxy": [
+        724.0,
+        649.67,
+        794.94,
+        839.01
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.25529688596725464,
+      "bbox_xyxy": [
+        1519.7,
+        210.67,
+        1560.93,
+        307.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2544606626033783,
+      "bbox_xyxy": [
+        1422.59,
+        293.53,
+        1468.25,
+        392.44
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2536751627922058,
+      "bbox_xyxy": [
+        0.0,
+        953.61,
+        42.16,
+        1133.17
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2536531388759613,
+      "bbox_xyxy": [
+        1292.14,
+        1059.67,
+        1372.15,
+        1139.0
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.25334858894348145,
+      "bbox_xyxy": [
+        157.41,
+        786.57,
+        252.23,
+        1023.43
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2517894208431244,
+      "bbox_xyxy": [
+        1466.08,
+        695.57,
+        1550.03,
+        913.46
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.2507154047489166,
+      "bbox_xyxy": [
+        1113.13,
+        304.4,
+        1158.97,
+        393.54
+      ]
+    }
+  ],
+  "limitations": "Person detection and counting baseline. This is not a crowd density-map estimator. Severe occlusion, tiny persons, threshold settings, and domain shift may affect the count."
+}
