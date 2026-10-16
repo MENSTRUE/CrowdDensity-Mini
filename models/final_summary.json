@@ -1,0 +1,21 @@
+{
+  "project": "7% \u2014 CrowdDensity Mini",
+  "version": "CrowdHuman FULL DATA YOLO11n v4",
+  "task": "crowded person detection + counting baseline",
+  "model": "YOLO11n",
+  "train_images_used": 15000,
+  "val_images_used": 4370,
+  "all_annotated_train_used": true,
+  "all_annotated_val_used": true,
+  "epochs": 15,
+  "img_size": 640,
+  "batch": 16,
+  "precision": 0.8370084562118518,
+  "recall": 0.6967773970140276,
+  "mAP50": 0.8092446719459494,
+  "mAP50_95": 0.48899423011949256,
+  "count_demo_images": 50,
+  "demo_count_mae": 5.34,
+  "test_folder_note": "Official CrowdHuman test images were used only for qualitative inference because annotation_test.odgt is not present.",
+  "limitation": "Person detection/counting baseline, not a density-map estimator. Severe occlusion, tiny persons, threshold choice, and domain shift may reduce performance."
+}
